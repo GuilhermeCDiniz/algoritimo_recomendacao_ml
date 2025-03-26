@@ -8,6 +8,8 @@ A ideia surgiu de uma necessidade real: ajudar estabelecimentos de fast food, ti
 
 > 🔎 Em vez de fazer isso no achismo, essa é uma solução baseada em dados reais de vendas, com potencial para aumentar o ticket médio e melhorar a experiência de compra.
 
+![Demonstração do Projeto](demo.gif)
+
 ---
 
 ## ⚙️ Como Funciona
